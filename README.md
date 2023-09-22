@@ -1,4 +1,4 @@
 - 👋 Hello, I’m @TheTimeSpinner
-- 👀 I’m interested in larning most coding languages like Java
+- 👀 I’m interested in learning most coding languages like Java
 - 🌱 I’m currently learning html, css and javascript
 - 📫 How to reach me: @ianluka on discord
